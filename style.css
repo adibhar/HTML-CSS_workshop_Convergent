@@ -1,21 +1,41 @@
 /* style.css */
 
 body {
-  background-color: #f0f0f0;
+  background-color: #b5e7f3;
   font-family: Arial, sans-serif;
   color: #333;
   text-align: center;
   margin: 0;
-  padding: 20px;
+
 }
 
 h1 {
-  color: #007acc;
+  color: #000000;
   font-size: 36px;
   margin-bottom: 10px;
+  background-color: #80b3ec;
 }
 
 p {
-  font-size: 18px;
-  color: #555;
+  background-color: aquamarine;
+
+  margin: 5em;
+  font-size: 2.5em; 
+  padding: 1em 2em;
+  background-color: #52a5d4;
+  border-radius: 15px;
+  color: #000000;
+}
+
+button{
+  margin: 0.5em;
+
+  font-size: 1em; 
+  padding: 1em 2em;
+  cursor: pointer;
+
+  border: 3px solid rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  background-color: #a3b1c0;
+  border-radius: 15px;
 }
